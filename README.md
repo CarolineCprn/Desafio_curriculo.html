@@ -1,2 +1,2 @@
 # Desafio_curriculo.html
-Currículo feito em html, junto com o desafio da trilha.
+Currículo feito em html e css, junto com o desafio da trilha.
